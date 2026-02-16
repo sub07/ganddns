@@ -1,0 +1,7 @@
+api_key: "your-gandi-pat"
+fetch_rate: "5m"
+records:
+  - domain: "example.com"
+    name: "home"
+  - domain: "example.com"
+    name: "@"
